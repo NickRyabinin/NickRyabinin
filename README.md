@@ -19,8 +19,8 @@
 ### Моя статистика GitHub:
 
 <p align="center">
-  <a href="https://github.com/NickRyabinin"><img src="https://github-readme-stats.vercel.app/api?username=NickRyabinin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NickRyabinin's GitHub stats" /></a>
-  <a href="https://github.com/NickRyabinin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickRyabinin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/NickRyabinin"><img vspace="90" hspace="10" src="https://github-readme-stats.vercel.app/api?username=NickRyabinin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NickRyabinin's GitHub stats" /></a>
+  <a href="https://github.com/NickRyabinin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickRyabinin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%10%Languages" alt="Top Languages" /></a>
 </p>
 
 Кто-то побывал тут уже ![Visitor Count](https://profile-counter.glitch.me/NickRyabinin/count.svg) раз.
