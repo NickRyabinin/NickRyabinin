@@ -1,6 +1,6 @@
 ### Привет, я - Николай, начинающий PHP разработчик. 👋 
 
-Интересуюсь Web-разработкой в стеке PHP, JS, SQL. Тут собраны мои учебные проекты, выполненные в рамках самостоятельного обучения профессии в онлайн-школе программирования Хекслет.
+Интересуюсь Web-разработкой в стеке PHP, JS, SQL. Тут собраны мои учебные проекты, выполненные в рамках [самостоятельного обучения](https://ru.hexlet.io/u/nick_r) профессии в онлайн-школе программирования Хекслет. В настоящее время изучаю JavaScript и отрабатываю различные концепции и чистоту кода [на пет-проекте](https://github.com/NickRyabinin/crud-api) [PHP CRUD API](http://php-crud-api.alwaysdata.net/).
 Да, я ищу работу в качестве стажёра / Junior PHP разработчика, поэтому оставлю тут ссылку на своё [резюме](https://hh.ru/resume/d9897bbcff0ca31e1a0039ed1f41357343486a).
 
 ### Стек, который я использую:
@@ -16,6 +16,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
 ### Моя статистика GitHub:
